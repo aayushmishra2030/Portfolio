@@ -21,10 +21,10 @@ export const About = () => {
       <SectionHeading heading="About Me" />
       <div className="-mt-5 max-w-2xl text-center leading-7">
         <p className="mb-4">
-          Namaste! I'm Aayush Anil Mishra. 
+          Aayush Anil Mishra
         </p>
         <p>
-          Second Year UG Student at MIT Manipal.
+          Second Year UG Student at MIT Manipal
         </p>
       </div>
       <Skills />
